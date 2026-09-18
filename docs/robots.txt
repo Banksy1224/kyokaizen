@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://banksy1224.github.io/kyokaizen/sitemap.xml
